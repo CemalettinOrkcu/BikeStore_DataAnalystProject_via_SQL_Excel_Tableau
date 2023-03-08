@@ -1,4 +1,4 @@
-# SalesAnalysis_DataAnalystProject_via_SQL_PowerBI
+# BikeStore_DataAnalystProject_via_SQL_Excel_Tableau
 ## Business Request
 The business request for this data analyst project was an executive dashboard for revenue analysis of bikes store 
 
