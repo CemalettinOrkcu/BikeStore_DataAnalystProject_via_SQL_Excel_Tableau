@@ -1,9 +1,9 @@
 # BikeStore_DataAnalystProject_via_SQL_Excel_Tableau
 ## Business Request
-The business request for this data analyst project was an executive dashboard for revenue analysis of bikes store 
+The business request for this data analyst project was an executive dashboard for revenue analysis of a bikes store.
 
 ## Data Cleansing & Transformation (SQL)
-To create the necessary data model for doing analysis tables were extracted using SQL
+To create the necessary data model for doing analysis tables were extracted using SQL.
 
 ## Executive Dashboard
 Two different executive dashboards were prepared with Excel and Tableau
